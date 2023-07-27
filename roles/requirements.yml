@@ -1,10 +1,12 @@
 ---
 roles:
-  - name: geerlingguy.mysql
+  - name: https://github.com/yunhai20082008/ansible-role-mysql.git
+    type: git
+    version: devel
 
-collections:
-  - name: community.general
-  - name: community.mysql
-  - name: community.postgresql
-  - name: community.seboolean
+# collections:
+#   - name: community.general
+#   - name: community.mysql
+#   - name: community.postgresql
+#   - name: community.seboolean
   
