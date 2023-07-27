@@ -3,4 +3,8 @@ roles:
   - name: geerlingguy.mysql
 
 collections:
+  - name: community.general
   - name: community.mysql
+  - name: community.postgresql
+  - name: community.seboolean
+  
