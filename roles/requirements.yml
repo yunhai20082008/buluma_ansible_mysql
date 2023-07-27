@@ -1,8 +1,8 @@
 ---
 roles:
-  - name: https://github.com/yunhai20082008/ansible-role-mysql.git
-    type: git
-    version: devel
+  - name: yunhai20082008.ansible-role-mysql
+    src: https://github.com/yunhai20082008/ansible-role-mysql.git
+    version: master
 
 # collections:
 #   - name: community.general
