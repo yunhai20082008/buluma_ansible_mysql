@@ -4,9 +4,9 @@ roles:
     src: https://github.com/yunhai20082008/ansible-role-mysql.git
     version: master
 
-# collections:
-#   - name: community.general
-#   - name: community.mysql
-#   - name: community.postgresql
-#   - name: community.seboolean
+collections:
+  - name: community.general
+  - name: community.mysql
+  - name: community.postgresql
+  - name: community.seboolean
   
