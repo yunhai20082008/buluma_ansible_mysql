@@ -8,4 +8,3 @@ mysql_users:
     host: "%"
     password: similarly-secure-password
     priv: "example_db.*:ALL"
-111222333
