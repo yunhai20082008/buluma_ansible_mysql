@@ -5,8 +5,8 @@ roles:
     version: master
 
 collections:
-  - name: community.general
-  - name: community.mysql
-  - name: community.postgresql
-  - name: community.seboolean
+  - community.general
+  - community.mysql
+  - community.postgresql
+  - community.seboolean
   
